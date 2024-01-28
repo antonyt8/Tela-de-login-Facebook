@@ -1,7 +1,7 @@
 # Recriando Tela de login do Facebook
+Desenvolvido no curso de senvolvimento Web da DankiCode
 
-
-## Para acessar o jogo
+## Para acessar o Clone
 
 Para acessar o clone da tela do Facebook [clique aqui](https://tela-de-login-facebook-omega.vercel.app/)
 
