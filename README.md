@@ -1,5 +1,6 @@
 # Recriando Tela de login do Facebook
-Desenvolvido no curso de Desenvolvimento Web da DankiCode
+
+Desenvolvido no curso de Desenvolvimento Web Front end WebMaster.
 
 ## Para acessar o Clone
 
